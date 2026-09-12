@@ -9,5 +9,5 @@ This is my grandma's braised chicken recipe. I grew up on this dish. It is a com
 
 There is nothing better than to make this while it it is **pouring** outside and you need a little **warmth** in your heart.
 
-
+![My recipe](recipe.png)
 
