@@ -1,13 +1,13 @@
-### This is a LOCAL change :)
-# Coca Cola Chicken Recipe
-line 2 changed remotely
-This is my grandma's braised chicken recipe. I grew up on this dish. It is a comfort food for me. 
-last line changed locally
-### This is a LOCAL change :)
+# My Favorite Recipe
+### *A little backstory
+# Coca Cola Chicken Recipe*
 
-### This is a REMOTE change :O
-# Coca Cola Chicken Recipe
-line 2 changed remotely
 This is my grandma's braised chicken recipe. I grew up on this dish. It is a comfort food for me. 
-### This is a REMOTE change :O
+- Prep time: 20 minutes
+- Cook time: 45 minutes
+- Serves: 4 
+
+There is nothing better than to make this while it it is **pouring** outside and you need a little **warmth** in your heart.
+
+![My recipe](recipe.png)
 
